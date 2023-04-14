@@ -4,22 +4,32 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="84d4aa09-626e-43b3-b4e7-af9336b47465" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Trabajo_Final_Maven/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Trabajo_Final_Maven/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Trabajo_Final_Maven/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Trabajo_Final_Maven/.idea/jarRepositories.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Trabajo_Final_Maven/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Trabajo_Final_Maven/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Trabajo_Final_Maven/src/main/java/org/example/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Trabajo_Final_Maven/src/main/java/prode/Equipo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Trabajo_Final_Maven/src/main/java/prode/Partido.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Trabajo_Final_Maven/src/main/java/prode/Persona.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Trabajo_Final_Maven/src/main/java/prode/Pronostico.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Trabajo_Final_Maven/src/main/java/prode/ResultadoEnum.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Trabajo_Final_Maven/src/main/java/prode/Ronda.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Trabajo_Final_Maven/src/main/resources/Pronostico.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Trabajo_Final_Maven/src/main/resources/Resultado.csv" beforeDir="false" />
+    <list default="true" id="278c2409-45f4-4af3-bfc8-044fceea6a6e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Trabajo_Final_Maven/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Trabajo_Final_Maven/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Trabajo_Final_Maven/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Trabajo_Final_Maven/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Trabajo_Final_Maven/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Trabajo_Final_Maven/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Trabajo_Final_Maven/src/main/java/org/example/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Trabajo_Final_Maven/src/main/java/prode/Equipo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Trabajo_Final_Maven/src/main/java/prode/Partido.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Trabajo_Final_Maven/src/main/java/prode/Persona.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Trabajo_Final_Maven/src/main/java/prode/Pronostico.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Trabajo_Final_Maven/src/main/java/prode/ResultadoEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Trabajo_Final_Maven/src/main/java/prode/Ronda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Trabajo_Final_Maven/src/main/resources/Pronostico.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Trabajo_Final_Maven/src/main/resources/Resultado.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Trabajo_Final_Maven/target/classes/Pronostico.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Trabajo_Final_Maven/target/classes/Resultado.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Trabajo_Final_Maven/target/classes/org/example/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Trabajo_Final_Maven/target/classes/prode/Equipo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Trabajo_Final_Maven/target/classes/prode/Partido.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Trabajo_Final_Maven/target/classes/prode/Persona.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Trabajo_Final_Maven/target/classes/prode/Pronostico.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Trabajo_Final_Maven/target/classes/prode/ResultadoEnum.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Trabajo_Final_Maven/target/classes/prode/Ronda.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,30 +64,16 @@
     "last_opened_file_path": "C:/Users/Alfredo Rios/Desktop/Trabajo Final",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
+    "project.structure.side.proportion": "0.0",
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Alfredo Rios\Desktop\Trabajo Final\Trabajo_Final_Maven\.idea" />
       <recent name="C:\Users\Alfredo Rios\Desktop\Trabajo Final" />
+      <recent name="C:\Users\Alfredo Rios\Desktop\Trabajo Final\.idea" />
+      <recent name="C:\Users\Alfredo Rios\Desktop\Trabajo Final\Trabajo_Final_Maven\.idea" />
     </key>
-  </component>
-  <component name="RunManager">
-    <configuration default="true" type="JetRunConfigurationType">
-      <module name="Trabajo Final" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
-      <module name="Trabajo Final" />
-      <option name="filePath" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
