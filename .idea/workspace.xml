@@ -4,32 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="278c2409-45f4-4af3-bfc8-044fceea6a6e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Trabajo_Final_Maven/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Trabajo_Final_Maven/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Trabajo_Final_Maven/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Trabajo_Final_Maven/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Trabajo_Final_Maven/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Trabajo_Final_Maven/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Trabajo_Final_Maven/src/main/java/org/example/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Trabajo_Final_Maven/src/main/java/prode/Equipo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Trabajo_Final_Maven/src/main/java/prode/Partido.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Trabajo_Final_Maven/src/main/java/prode/Persona.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Trabajo_Final_Maven/src/main/java/prode/Pronostico.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Trabajo_Final_Maven/src/main/java/prode/ResultadoEnum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Trabajo_Final_Maven/src/main/java/prode/Ronda.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Trabajo_Final_Maven/src/main/resources/Pronostico.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Trabajo_Final_Maven/src/main/resources/Resultado.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Trabajo_Final_Maven/target/classes/Pronostico.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Trabajo_Final_Maven/target/classes/Resultado.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Trabajo_Final_Maven/target/classes/org/example/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Trabajo_Final_Maven/target/classes/prode/Equipo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Trabajo_Final_Maven/target/classes/prode/Partido.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Trabajo_Final_Maven/target/classes/prode/Persona.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Trabajo_Final_Maven/target/classes/prode/Pronostico.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Trabajo_Final_Maven/target/classes/prode/ResultadoEnum.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Trabajo_Final_Maven/target/classes/prode/Ronda.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="a376bf34-d49b-42df-99bb-c46bf0b6a603" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Trabajo_Final_Maven/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Trabajo_Final_Maven/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Trabajo_Final_Maven/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Trabajo_Final_Maven/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Trabajo_Final_Maven/.idea/misc.xml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,76 +19,62 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_BRANCH_BY_REPOSITORY">
-      <map>
-        <entry key="$PROJECT_DIR$" value="main" />
-      </map>
-    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="2O710nkP6DY29nDL8mGmSxQvCON" />
+  <component name="ProjectId" id="2ORIQ8YsG7XPdUpGum9DSM058O3" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "Downloaded.Files.Path.Enabled": "false",
-    "Repository.Attach.Annotations": "false",
-    "Repository.Attach.JavaDocs": "false",
-    "Repository.Attach.Sources": "false",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_directory_selection": "C:/Users/Alfredo Rios/Desktop/Trabajo Final/src",
-    "last_opened_file_path": "C:/Users/Alfredo Rios/Desktop/Trabajo Final",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.0",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Alfredo Rios\Desktop\Trabajo Final" />
-      <recent name="C:\Users\Alfredo Rios\Desktop\Trabajo Final\.idea" />
-      <recent name="C:\Users\Alfredo Rios\Desktop\Trabajo Final\Trabajo_Final_Maven\.idea" />
-    </key>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="Trabajo Final" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="Trabajo Final" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="84d4aa09-626e-43b3-b4e7-af9336b47465" name="Changes" comment="" />
-      <created>1680896592687</created>
+      <changelist id="a376bf34-d49b-42df-99bb-c46bf0b6a603" name="Changes" comment="" />
+      <created>1681516948526</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1680896592687</updated>
+      <updated>1681516948526</updated>
     </task>
     <servers />
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State>
-              <option name="FILTERS">
-                <map>
-                  <entry key="branch">
-                    <value>
-                      <list>
-                        <option value="maven" />
-                      </list>
-                    </value>
-                  </entry>
-                </map>
-              </option>
-            </State>
-          </value>
-        </entry>
-      </map>
-    </option>
   </component>
 </project>
